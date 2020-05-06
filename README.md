@@ -15,3 +15,7 @@ https://eater.net/vga
 
 https://hackaday.io/project/20161-breadboard-vga-from-ttl-and-eeprom
 
+http://tinyvga.com/avr-vga
+
+https://hackaday.com/2015/12/17/attiny-does-170x240-vga-with-8-colors/
+
